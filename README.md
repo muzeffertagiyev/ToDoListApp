@@ -1,4 +1,4 @@
-# todo list
+# To Do list GUI
 
 ## About the project
 It is used for the person to organize his/her todo list 
